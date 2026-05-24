@@ -62,11 +62,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
 7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
 ## 👨‍💻Author
 Nirdesh Tyagi
 
